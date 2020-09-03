@@ -15,8 +15,6 @@ elif player == "2":
 elif player == "3":
     print("You chose Scissors, and the computer chose " + computer)
 
-
-
 if player == "1" and computer == "Rock":
     print("It is a draw!")
 elif player == "1" and computer == "Paper":
